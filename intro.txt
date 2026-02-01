@@ -1,0 +1,6 @@
+This repository demonstrates basic GitHub operations:
+1. Repository creation
+2. Branching
+3. Commits
+4. Pull requests
+5. Forking
